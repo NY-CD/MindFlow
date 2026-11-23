@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mindflow - Prototype Code</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Bon retour, Chloé !</h1>
+            <p>Comment vous sentez-vous aujourd'hui ?</p>
+        </header>
+        <main>
+            <div class="card">
+                <h2>Mon évolution</h2>
+                <p>Graphique d'humeur de la semaine</p>
+            </div>
+            <button class="btn-primary">Commencer l'exercice</button>
+        </main>
+    </div>
+</body>
+</html>
