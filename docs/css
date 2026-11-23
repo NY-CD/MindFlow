@@ -1,0 +1,27 @@
+body {
+    background-color: #FDFBF7;
+    font-family: 'Inter', sans-serif;
+    color: #1E293B;
+    display: flex;
+    justify-content: center;
+}
+.app-container {
+    width: 390px;
+    padding: 20px;
+}
+.card {
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    margin-bottom: 20px;
+}
+.btn-primary {
+    background-color: #8B5CF6;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    width: 100%;
+    font-size: 16px;
+}
